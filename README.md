@@ -8,3 +8,5 @@ File containing images used in Jupiter notebook.
 Contains Python code to clean and classify EEG data with brief explanations of process.
 ### EEG_Data.csv: 
 Source of patient EEG data pulled from machine learning repository.  
+### COGS189 Final Project.pdf:
+Presentation given on Project with more detailed explanations on data and process than EEG Classification.ipynb. 
